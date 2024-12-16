@@ -34,3 +34,7 @@ clean.sh
 .envrc
 .vscode-extensions
 core
+*.ipynb
+*.csv
+not_found_files.txt
+*.xlsx
